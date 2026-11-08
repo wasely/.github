@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions, help and pull request discussion
+    url: https://discord.gg/grokbot
+    about: The one Discord for every repo here. Claim an issue, ask about setup, or say what should get built next.
+  - name: Good first issues
+    url: https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22+user%3Ablixvip
+    about: Small, scoped work with the files to change already named.
